@@ -1,0 +1,18 @@
+# Options of the program, one per line: option value (the long option names of code/main.cpp). The launcher adds the
+# instance, the seed, the time limit, the output directory and a target that cannot be reached.
+method mcts
+initialization constrained
+local_search redls
+simulation always_ls
+adaptive none
+coeff_exploi_explo 1
+window_size 50
+O_time 0
+max_time_local_search -1
+P_time 0.04
+ls_ptabu 1
+ls_pt_stall 100
+ls_atabu 0.6
+ls_pt_stall_max 1000
+ls_pt_gate 1.5
+ls_inject 20
