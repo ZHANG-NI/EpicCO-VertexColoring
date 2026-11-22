@@ -1,6 +1,6 @@
-# AlphaCO: Weighted Vertex Coloring
+# EpicCO: Weighted Vertex Coloring
 
-The solver that [AlphaCO](https://github.com/ZHANG-NI/AlphaCO) produced for the weighted vertex coloring problem, starting from MCTS + RedLS (C. Grelier, O. Goudet, and J.-K. Hao, SN Computer Science, 2025; the authors' public repository).
+The solver that [EpicCO](https://github.com/ZHANG-NI/EpicCO) produced for the weighted vertex coloring problem, starting from MCTS + RedLS (C. Grelier, O. Goudet, and J.-K. Hao, SN Computer Science, 2025; the authors' public repository).
 
 ## Run
 
